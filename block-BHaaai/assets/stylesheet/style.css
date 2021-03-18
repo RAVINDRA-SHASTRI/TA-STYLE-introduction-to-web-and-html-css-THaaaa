@@ -1,0 +1,25 @@
+
+body {
+    background-color:#22396a;
+    height: 100vh;
+    color: white;
+}
+.image {
+    text-align: center;
+}
+img {
+    width: 300px;
+}
+header{
+    text-align: center;
+}
+h2{
+    color: green;
+}
+a{
+    color: red;
+}
+footer{
+    background-color: blue;
+    text-align: center;
+}
